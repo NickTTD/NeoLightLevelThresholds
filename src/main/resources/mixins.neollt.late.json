@@ -1,0 +1,8 @@
+{
+  "required": false,
+  "package": "com.nickttd.neolightlevels.mixin",
+  "refmap": "mixins.neohunger.refmap.json",
+  "mixins": [
+
+  ]
+}

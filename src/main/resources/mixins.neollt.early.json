@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8.3-GTNH",
+  "package": "com.nickttd.neolightlevels.mixin.early",
+  "refmap": "mixins.neollt.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinEntityMob",
+    "EntityRandAccessor",
+    "MixinSpawnerAnimals",
+    "MixinWorldOverlayRenderer"
+  ]
+}
